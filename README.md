@@ -4,7 +4,7 @@ API REST e-commerce construite avec Laravel 12 et PHP 8.2+. Elle fournit l'authe
 
 ## Prérequis
 
-- PHP 8.2 ou supérieur, avec les extensions requises par Laravel et PDO SQLite (ou PDO MySQL si vous utilisez MySQL)
+- PHP 8.2 ou supérieur, avec les extensions requises par Laravel et MySQL)
 - Composer
 - Node.js et npm, uniquement pour compiler les ressources front-end
 
